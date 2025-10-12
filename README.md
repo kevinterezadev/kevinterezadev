@@ -17,7 +17,7 @@
 </div>
 
 ## 🔥 Último projeto publicado
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinterezadev&repo=valida-ja&theme=transparent)](https://github.com/kevinterezadev/valida-ja)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinterezadev&repo=portfolio&theme=transparent)](https://github.com/kevinterezadev/portfolio)
 
 ## 📫 Vamos nos conectar!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-tereza) 
