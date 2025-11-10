@@ -7,8 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinterezadev&layout=compact&hide_border=true&title_color=4B367C&text_color=F8F4F6&bg_color=1A1A1A" alt="Linguagens mais usadas por Kevin Tereza"/>
 </div>
 
-[![Gráfico de atividade do GitHub de Kevin](https://github-readme-activity-graph.vercel.app/graph?username=kevinterezadev&bg_color=1A1A1A&color=4B367C&line=7E57C2&point=C0C0C0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kevinterezadev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Troféus do perfil do GitHub de Kevin Tereza"/>
 </p>
