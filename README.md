@@ -18,8 +18,8 @@
   <a href="mailto:kevinterezadev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-4B367C?style=for-the-badge&logo=gmail&logoColor=F8F4F6" alt="Email"/>
   </a>
-  <a href="https://www.youtube.com/@kevinterezadev" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-291E42?style=for-the-badge&logo=youtube&logoColor=F8F4F6" alt="YouTube"/>
+  <a href="https://kevinterezadev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-291E42?style=for-the-badge&logo=google-chrome&logoColor=F8F4F6" alt="Portfólio"/>
   </a>
 </div>
 
