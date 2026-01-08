@@ -7,9 +7,9 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinterezadev&layout=compact&hide_border=true&title_color=4B367C&text_color=F8F4F6&bg_color=1A1A1A" alt="Linguagens mais usadas por Kevin Tereza"/>
 </div> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kevinterezadev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Troféus do perfil do GitHub de Kevin Tereza"/>
-</p>
+</p> -->
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/kevinterezadev/" target="_blank">
@@ -43,7 +43,7 @@
 ---
 
 ### 📘 Estudando no momento:
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-1A1A1A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-1A1A1A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
 ![Sass](https://img.shields.io/badge/-Sass-1A1A1A?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![React](https://img.shields.io/badge/-React-1A1A1A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
