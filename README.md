@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/kevinterezadev/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-291E42?style=for-the-badge&logo=linkedin&logoColor=F8F4F6" alt="LinkedIn"/>
   </a>
-  <a href="https://kevinterezadev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-4B367C?style=for-the-badge&logo=google-chrome&logoColor=F8F4F6" alt="Portfólio"/>
+  <a href="https://kevinterezadev.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-4B367C?style=for-the-badge&logo=google-chrome&logoColor=F8F4F6" alt="Portfolio"/>
   </a>
   <a href="mailto:kevinterezadev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-291E42?style=for-the-badge&logo=gmail&logoColor=F8F4F6" alt="Email"/>
