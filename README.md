@@ -1,16 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B367C&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e11d48&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B367C&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Kevin+Tereza;Sou+desenvolvedor+júnior;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e11d48&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Kevin+Tereza;Sou+desenvolvedor+júnior;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/kevinterezadev/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-291E42?style=for-the-badge&logo=linkedin&logoColor=F8F4F6" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-e11d48?style=for-the-badge&logo=linkedin&logoColor=F8F4F6" alt="LinkedIn"/>
   </a>
   <a href="https://kevinterezadev.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-4B367C?style=for-the-badge&logo=google-chrome&logoColor=F8F4F6" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/-Portfolio-e11d48?style=for-the-badge&logo=google-chrome&logoColor=F8F4F6" alt="Portfolio"/>
   </a>
   <a href="mailto:kevinterezadev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-291E42?style=for-the-badge&logo=gmail&logoColor=F8F4F6" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Email-e11d48?style=for-the-badge&logo=gmail&logoColor=F8F4F6" alt="Email"/>
   </a>
 </div>
 
@@ -44,4 +44,4 @@
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B367C&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e11d48&height=120&section=footer"/>
