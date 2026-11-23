@@ -20,7 +20,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-1A1A1A?style=for-the-badge&logo=html5&logoColor=E44D26)
 ![CSS3](https://img.shields.io/badge/-CSS3-1A1A1A?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-1A1A1A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![Sass](https://img.shields.io/badge/-Sass-1A1A1A?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1A1A1A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
@@ -38,8 +37,7 @@
 
 ### 📘 Estudando no momento:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1A1A1A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/-React-1A1A1A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-1A1A1A?style=for-the-badge&logo=node.js&logoColor=339933)
+![Angular](https://img.shields.io/badge/-Angular-1A1A1A?style=for-the-badge&logo=angular&logoColor=DD0031)
 
 
 ---
